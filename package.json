@@ -1,0 +1,9 @@
+{
+  "name": "telegram-shop-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for connecting to Google Sheets",
+  "main": "src/bot.js",
+  "scripts": {
+    "start": "node src/bot.js"
+  }
+}
